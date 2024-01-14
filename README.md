@@ -4,6 +4,6 @@ Daily Study
 - 👀 I’m interested in java,C\C++,html,python
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me QQ:3477939892 Wechat:GF0063912800
+- 📫 How to reach me Mailbox:3477939892@qq.com
 - 😄 Pronouns: Stay hungry,Stay foolish
 - ⚡ Fun fact: I don't know
