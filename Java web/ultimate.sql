@@ -8,6 +8,6 @@ create table ultimate
     address varchar(50)
 );
 
-insert into ultimate values ('202205620244','郭勇志',20,'22级计应2班','学生','河南省平顶山市');
+insert into ultimate values ('202205620239','易',20,'计算机2班','老师','北京市石景山');
 
 SELECT * FROM ultimate;
